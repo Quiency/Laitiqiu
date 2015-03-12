@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.big_banner{
+		background-image: url("/pages/banner_1680x1050.jpg");
+		opacity:0.7;
+		filter:alpha(opacity=70);
+		background-repeat:no-repeat;
+		width:auto;
+		height:400px;
+		/* margin-left:-230px;
+		margin-top:-20px;
+		_position:relative; */
+}
+
+
+.my_set_top {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
